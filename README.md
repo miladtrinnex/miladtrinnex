@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**miladtrinnex/miladtrinnex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+### Hello World, I'm Mila Omrani! 👋
 
-Here are some ideas to get you started:
+🔭 **Working On**: Enhancing computer vision techniques and exploring pattern recognition using adversarial learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently ML Developer**: (at Trinnex)
+
+💼 **Open to Collaborations**: I'm keen to collaborate on challenging computer vision projects. Feel free to reach out!
+
+📫 **Get in Touch**: You can reach me at Omrani[dot]mila [at] Gmail[dot]com
+
+🚴 **Hobbies**: Apart from coding, I enjoy biking and constantly working towards becoming a proficient programmer in C++ and Python.
+
+---
+
+#### 📊 **This Week I Spent My Time On**
+```readme
+Python       ████████████████▓░░░░░░░░░   66.7 % 
+C++          ███████▓░░░░░░░░░░░░░░░░░░   23.3 % 
+C#           ███▓░░░░░░░░░░░░░░░░░░░░░░   10.0 % 
+```
+<!--END_SECTION:waka-->
+
+#### 📈 **My GitHub Stats**
+![Mila's GitHub stats](https://github-readme-stats.vercel.app/api?username=milaomrani&show_icons=true&theme=radical)
